@@ -1,5 +1,3 @@
-'use server';
-
 import MainLayout from '@/Layouts/MainLayout';
 import { store } from '@/redux/store';
 import { CartItemType } from '@/types/global';
